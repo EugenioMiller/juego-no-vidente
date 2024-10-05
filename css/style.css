@@ -49,3 +49,8 @@ button {
     background-color: red;
     color: white;
 }
+
+.ambos {
+    background: rgb(0,34,191);
+    background: linear-gradient(0deg, rgba(0,34,191,1) 0%, rgba(245,0,0,1) 100%);
+}
